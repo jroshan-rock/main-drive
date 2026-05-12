@@ -97,7 +97,7 @@ Example: CHAR(10) always stores 10 characters.
 VARCHAR(M) → variable length (1–65535, depends on row size)
 Example: VARCHAR(100) → up to 100 characters.
 
-- Test 
+- Text 
 It is used for Comment / Paragraph , Sentence and Address.
 
 
