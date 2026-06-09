@@ -3,7 +3,7 @@ and return a single value for each original row, unlike standard aggregate funct
 which collapse rows into a single result. This allows for calculations like running totals, 
 rankings, and moving averages while preserving the detailed data.
 
-# ey Concepts
+# Key Concepts
 - OVER() Clause: This mandatory clause defines the window of rows the function operates on.
 - PARTITION BY: An optional sub-clause within OVER() that divides the rows into groups (partitions) based on a specified column(s). The window function calculations are then reset for each partition.
 - ORDER BY: Specifies the logical order of rows within each partition. This is essential for functions that rely on sequence, like ranking or offset functions.
