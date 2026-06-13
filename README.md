@@ -156,6 +156,9 @@ SQL is a declarative language for managing data in relational databases, excelli
 <img width="1724" height="934" alt="image" src="https://github.com/user-attachments/assets/313b77e2-de0e-4281-acdb-f03abc45fced" />
 
 ---
+<img width="1043" height="466" alt="image" src="https://github.com/user-attachments/assets/3a65009e-dce0-4a95-a521-f75e4fd41a07" />
+
+---
 
 Joins:- 
 1. Left Join
