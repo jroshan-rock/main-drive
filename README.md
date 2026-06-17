@@ -115,27 +115,38 @@ Leetcode :- https://leetcode.com/studyplan/top-sql-50/<br>
 
 # SQL vs. NoSQL
   1. SQL (Relational Databases):
-    1. Uses Structured Query Language (SQL) for database interaction.
-    2. Suitable for applications where data relationships and integrity are crucial.
-    3. Requires a fixed schema, making it less flexible in terms of data structure.
+
+    1.1 Uses Structured Query Language (SQL) for database interaction.
+    
+    1.2 Suitable for applications where data relationships and integrity are crucial.
+    
+    1.3 Requires a fixed schema, making it less flexible in terms of data structure.
   
-  2. NoSQL (Non-Relational Databases):
-    1. No specific query language; interaction happens through APIs or other query models depending on the database (e.g., MongoDB uses MQL—Mongo Query Language).
-    2. Offers flexibility in schema design, allowing the data model to evolve over time.
-    3. Ideal for high-velocity, high-volume data with minimal structure, such as real-time data processing or big data applications.
+ 2. NoSQL (Non-Relational Databases):
+    
+    2.1 No specific query language; interaction happens through APIs or other query models depending on the database (e.g., MongoDB uses MQL—Mongo Query Language).
+    
+    2.2 Offers flexibility in schema design, allowing the data model to evolve over time.
+    
+    2.3 Ideal for high-velocity, high-volume data with minimal structure, such as real-time data processing or big data applications.
 
 --- 
 
 # Popular Database Management Systems (DBMS)
-  1. MySQL:
+ 
+1. MySQL:
    Open-source relational database known for its speed and reliability. Widely used in web applications.
-  2. PostgreSQL:
-  An advanced, open-source relational database with support for more complex operations such as JSON data types and advanced indexing.
-  3. Microsoft SQL Server:
+
+2. PostgreSQL:
+An advanced, open-source relational database with support for more complex operations such as JSON data types and advanced indexing.
+
+3. Microsoft SQL Server:
   A commercial relational database developed by Microsoft, offering robust integration with Microsoft’s technology stack and enterprise-grade features.
-  4. Oracle Database:
+
+4. Oracle Database:
   A powerful relational database known for handling large-scale enterprise systems. It offers advanced security and performance features.
-  5. MongoDB:
+
+5. MongoDB:
   A popular NoSQL database that stores data in JSON-like documents. Used in applications requiring fast, flexible, and scalable data storage
 
 --- 
@@ -149,7 +160,9 @@ SQL is a language, while MySQL is a database management system (DBMS) that uses 
 --- 
 
 # SQL vs Pandas 
-SQL is a declarative language for managing data in relational databases, excelling at large-scale operations and data integrity, while Pandas is a Python library for in-memory data analysis and manipulation, offering greater flexibility and integration with the broader Python ecosystem (e.g., machine learning and visualization libraries). They are not competitors but complementary tools often used together in a data pipeline.
+SQL is a declarative language for managing data in relational databases, excelling at large-scale operations and data integrity, while Pandas is a Python library for in-memory data analysis and manipulation, offering greater flexibility and integration with the broader Python ecosystem (e.g., machine learning and visualization libraries).
+
+They are not competitors but complementary tools often used together in a data pipeline.
 
 <img width="1043" height="734" alt="image" src="https://github.com/user-attachments/assets/b275acc4-6b8c-4a84-adc5-abf873c94ed3" />
 
@@ -161,6 +174,7 @@ SQL is a declarative language for managing data in relational databases, excelli
 ---
 
 Joins:- 
+
 1. Left Join
    <img width="1411" height="806" alt="image" src="https://github.com/user-attachments/assets/fb398961-7974-442f-b948-7e79fb50dae2" />
 
