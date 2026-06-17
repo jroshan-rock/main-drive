@@ -81,35 +81,52 @@ Leetcode :- https://leetcode.com/studyplan/top-sql-50/<br>
 
 ## Advantages of SQL
   1. Ease of Use: SQL is user-friendly, with clear syntax that makes it easy to learn and understand. Writing queries and reading results is straightforward for users of all levels.
+     
   2. Standardization: SQL is a standardized language, making it compatible with numerous database management systems. This ensures seamless data transfer across different systems.
+     
   3. Scalability: SQL can handle large datasets and scale with growing business needs.
+    
   4. Flexibility: SQL is highly adaptable, capable of handling both simple queries and complex data analysis.
+     
   5. Security: SQL includes built-in security features such as user authentication, encryption, and access control, protecting data from unauthorized access.
+     
   6. Performance: SQL is optimized for performance, allowing for quick query execution and real-time data retrieval, making it a valuable tool for decision-making.
 
 --- 
 
 ## Limitations of SQL
   1. Complexity: SQL can be difficult to learn, especially for beginners unfamiliar with database design and programming concepts.
+    
   2. Limited Support for Non-Relational Data: SQL is specifically designed for relational databases, which may not be ideal for managing non-relational data formats like JSON or XML.
+    
   3. Cost: Some SQL-based database management systems are expensive to license, particularly for large-scale enterprise applications.
+     
   4. Scalability Challenges: Although SQL is scalable, managing very large datasets with a centralized architecture can pose challenges and lead to performance bottlenecks.
+     
   5. Performance Issues with Large Datasets: SQL may experience performance degradation when handling exceptionally large datasets or highly complex queries, potentially impacting user experience.
 
 --- 
 ## Relational vs. Non-Relational Databases
 
 1. Relational Databases (SQL):
-   1.  Data is stored in structured tables with relationships between different tables.
-   2.  Provides ACID (Atomicity, Consistency, Isolation, Durability) properties, ensuring data reliability and integrity.
-   3.  Suitable for complex querying and data analysis.
-   4.  More rigid schema with predefined structure.
 
-2. Non-Relational Databases (NoSQL):
-  1. Data is stored in a flexible format (key-value pairs, documents, columns, etc.).
-  2. Offers scalability and better performance for unstructured or semi-structured data.
-  3. Provides BASE (Basically Available, Soft state, Eventual consistency) for high availability and distributed systems.
-  4. Used for high-throughput, large datasets with simple queries.
+   1.1  Data is stored in structured tables with relationships between different tables.
+
+   1.2  Provides ACID (Atomicity, Consistency, Isolation, Durability) properties, ensuring data reliability and integrity.
+
+   1.3  Suitable for complex querying and data analysis.
+
+   1.4  More rigid schema with predefined structure.
+
+3. Non-Relational Databases (NoSQL):
+
+   2.1 Data is stored in a flexible format (key-value pairs, documents, columns, etc.).
+
+   2.2 Offers scalability and better performance for unstructured or semi-structured data.
+ 
+   2.3 Provides BASE (Basically Available, Soft state, Eventual consistency) for high availability and distributed systems.
+
+   2.4 Used for high-throughput, large datasets with simple queries.
 
 ---  
 
@@ -123,12 +140,12 @@ Leetcode :- https://leetcode.com/studyplan/top-sql-50/<br>
     1.3 Requires a fixed schema, making it less flexible in terms of data structure.
   
  2. NoSQL (Non-Relational Databases):
-    
+
     2.1 No specific query language; interaction happens through APIs or other query models depending on the database (e.g., MongoDB uses MQL—Mongo Query Language).
     
-    2.2 Offers flexibility in schema design, allowing the data model to evolve over time.
+   2.2 Offers flexibility in schema design, allowing the data model to evolve over time.
     
-    2.3 Ideal for high-velocity, high-volume data with minimal structure, such as real-time data processing or big data applications.
+   2.3 Ideal for high-velocity, high-volume data with minimal structure, such as real-time data processing or big data applications.
 
 --- 
 
