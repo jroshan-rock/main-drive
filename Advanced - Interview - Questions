@@ -1,4 +1,4 @@
-# 2026 - 03 - 21 
+# 2026 - 06 - 21 
 
 ..........................................................
 ..........................................................
@@ -39,7 +39,7 @@ Indexes are not "free"—they consume disk space and, crucially, slow down data 
 
 ..........................................................
 ..........................................................
-# 2026 - 03 - 21 
+# 2026 - 06 - 21 
 # Data Science Use Cases (SQL + Analytics)
 
 1. Feature Engineering using SQL
@@ -231,7 +231,7 @@ CREATE INDEX idx_multi ON employees(department, salary);
 
 ..........................................................
 ..........................................................
-## 2026 - 03 - 21 
+## 2026 - 06 - 21 
 # 🎯 Tricky Interview Questions
 1. Difference between WHERE and HAVING
 2. DELETE vs TRUNCATE vs DROP
