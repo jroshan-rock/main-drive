@@ -218,3 +218,6 @@ Joins:-
 
 # Clustering vs Non-Clustring  ( Advanced Questions) 
 <img width="966" height="672" alt="image" src="https://github.com/user-attachments/assets/532a2eed-e47e-4711-b36a-336ac0fe054f" />
+
+# Mysql Workbench reset Password :- 
+- ALTER USER 'root'@'localhost' IDENTIFIED BY 'MyNewPassword';
