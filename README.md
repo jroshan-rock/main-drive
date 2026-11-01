@@ -7,7 +7,8 @@ Codechef:- [ https://www.codechef.com/practice/sql-case-studies-topic-wise] <br>
 hackerrank:- [ https://www.hackerrank.com/domains/sql ] <br> 
 sqlzoo  :- [https://sqlzoo.net/wiki/SQL_Tutorial ] <br> 
 Geeksforgeeks :- [ https://www.geeksforgeeks.org/sql/sql-exercises/] <br> 
-Leetcode :- https://leetcode.com/studyplan/top-sql-50/<br> 
+Leetcode :- [https://leetcode.com/studyplan/top-sql-50/]<br> 
+SQL Bolt :- [https://sqlbolt.com/]
 
 --- 
 <!-- ## 🎥 Live Demo
